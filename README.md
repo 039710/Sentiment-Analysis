@@ -3,7 +3,7 @@ Sentiment analysis project using dataset from Kaggle.
 
 # How to run
 - go to directory where sentiment.py is saved.
-- type : pyhton sentiment.py
+- type : python sentiment.py
 - wait until this text shown on the console
  * Serving Flask app "sentiment" (lazy loading)
  * Environment: production
