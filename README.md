@@ -1,5 +1,7 @@
-# Sentiment-Analysis
+# Sentiment-Analysis BOT
 Sentiment analysis project using dataset from Kaggle.
+The project build with python and flask for the UI.
+Sentiment analysis based on supervised machine learning.
 
 # How to run
 - go to directory where sentiment.py is saved.
